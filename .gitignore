@@ -1,0 +1,9 @@
+.env
+credentials.json
+token.json
+processed_invoices.json
+downloads/
+__pycache__/
+*.pyc
+.venv/
+venv/
